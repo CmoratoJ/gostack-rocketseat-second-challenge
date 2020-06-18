@@ -1,6 +1,6 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-# GoStack Rocketseat First Challenge
+# GoStack Rocketseat Second Challenge
 Este projeto é parte do GoStack - Bootcamp da Rocketseat
 
 Nosso objetivo era criar uma interface web para consumir as informações do servidor criado no **[Primeiro desafio](https://github.com/CmoratoJ/gostack-rocketseat-first-challenge)**
